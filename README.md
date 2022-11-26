@@ -13,7 +13,7 @@ A platform where users can create or book workout sessions and participate via z
 We designed the platform for two types of users, trainers and trainees. Trainers can create activities and schedule sessions of them. Trainees can search for and filter sessions, pay for a selected session, and see a zoom link to join the session.
 
 ## Project outline
-This was our second and last project during the final two weeks of the Le Wagon bootcamp, following our first project: [Floatify](https://github.com/sara-woods/float_boat).
+This was our second and last project during the final two weeks of the Le Wagon bootcamp, following our first project: [Floatify](https://github.com/sara-woods/floatify-copy).
 
 The idea originally came from Sara Woods which she pitched during Le Wagon's pitch night. We then were grouped together based on our votes for the idea.
 
