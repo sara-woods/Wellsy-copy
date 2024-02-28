@@ -2,8 +2,6 @@
 
 Web app connecting freelance trainers with anyone who wants to join classes from the comfort of their own home.  
 
-### [wellsy.fly.dev](https://wellsy.fly.dev)  
-
 ## Motivation
 Working out from home have become very common due to the pandemic. But it can be hard to find the motivation to workout alone and some might miss the feeling of working out in a class. Others might want a professional to lead them. It can also be tough for freelance trainers to reach customers. Working out via zoom with a trainer along others is a great alternative.
 
